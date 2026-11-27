@@ -1,0 +1,24 @@
+{
+  "name": "furreal",
+  "version": "1.0.0",
+  "description": "FurReal - Pet Supplies Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godwynndave-ux/FurReal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/godwynndave-ux/FurReal/issues"
+  },
+  "homepage": "https://github.com/godwynndave-ux/FurReal#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
